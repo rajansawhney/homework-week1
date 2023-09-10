@@ -1,7 +1,7 @@
 # ICS 212
-## Homework - Week 2
+## Homework - Week 1
 
-# Operators
+# Format Specifiers
 
 ### Assignment:
 - Update prob1, prob2, prob3 and prob4 (a,b,c,d,e,f) .c files following homework assignment description provided in HomeworkAssignment_Week1.pdf (uploaded on Laulima)
