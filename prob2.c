@@ -2,7 +2,8 @@
 
 /*
 Write a C Program that prints the following output:
-Aloha World! Aloha
+Aloha World!
+Aloha
 Regis!
 Aloh
 a Regis! 
