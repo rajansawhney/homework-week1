@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /*
-Repeat a), but now read all numbers in a single scanf statement and print them
-in a single printf statement.
+Repeat a) and b), but now print all real numbers with only 3 digits aKer the
+decimal point.
   
 */
 
